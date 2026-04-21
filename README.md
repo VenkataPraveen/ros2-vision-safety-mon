@@ -12,6 +12,7 @@ motion detection, a C++ safety watchdog, and fault injection for testing.
 - Detects motion using OpenCV frame differencing (Python)
 - Monitors the pipeline for faults using a C++ watchdog node
 - Injects controlled faults (dropout, stuck-value, noise) to verify detection logic
+<img width="581" height="602" alt="image" src="https://github.com/user-attachments/assets/5b6382a4-6652-4fd5-93a7-330548692768" />
 
 ## Fault Types Detected
 | Fault | Description | Detection Method |
